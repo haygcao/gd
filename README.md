@@ -20,7 +20,7 @@ docker exec -it qinglong /bin/bash
 - [x] 一键安装
 
 ```
-wget https://raw.githubusercontent.com/curtinlv/gd/main/install.sh && bash install.sh
+wget https://raw.githubusercontent.com/haygcao/gd/main/install.sh && bash install.sh
 ```
 
 - [ ] 人工安装
