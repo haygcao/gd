@@ -78,7 +78,7 @@ python3 -m jbot
 
 ```bash
 # 通过pm2 后台启动，除了登录验证外，建议使用pm2启动机器人
-cd /ql/jbot/
+cd /ql/data/jbot/
 pm2 start ecosystem.config.js #第一次启动是这样启动，后续启动参考底部相关命令
 
 # 查看日志：看看有没有报错。
